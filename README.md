@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋</h1>
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋
 
 
-<p>Welcome to my page! </br> I'm <b>Vinh</b> </p>
-<h3>Things I code with</h3>
-<p>
+Welcome to my page!
+I'm Vinh
+## Things I code with
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -62,13 +62,12 @@ Here are some ideas to get you started:
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
 
-</p>
 
-<h3>Where to find me</h3>
-<p>
-<a href="https://github.com/vinhkq" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/kieuquangvinh92" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/vinhkq" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+## Where to find me
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinhkq/)](https://www.linkedin.com/in/vinhkq/)
+[![Github](https://img.shields.io/badge/gitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/vinhkq/)](https://github.com/vinhkq)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/kieuquangvinh92/)](https://twitter.com/kieuquangvinh92/)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vinhkq.vinhkq)
