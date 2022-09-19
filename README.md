@@ -5,7 +5,7 @@
 Welcome to my page!
 I'm Vinh.
 
-My proficiencies include expertise in web development, consultant & project management.
+<!-- My proficiencies include expertise in web development, consultant & project management. -->
 
 ## Things I work with
 
