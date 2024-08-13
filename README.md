@@ -73,4 +73,11 @@ I'm Vinh.
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/kieuquangvinh92/)](https://twitter.com/kieuquangvinh92/)
 
 
+<!-- ## Github badge
+https://github-readme-stats.vercel.app/api?username=vinhkq&include_all_commits=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=vinhkq
+https://github-profile-trophy.vercel.app/?username=vinhkq
+https://github-readme-streak-stats.herokuapp.com/?user=vinhkq -->
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vinhkq.vinhkq)
